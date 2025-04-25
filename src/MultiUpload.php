@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Atk4\Multiupload;
+namespace Atk4\MultiUpload;
 
 use Atk4\Ui\Exception;
 
