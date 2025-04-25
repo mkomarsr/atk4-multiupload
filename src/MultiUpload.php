@@ -152,7 +152,7 @@ class MultiUpload extends \Atk4\Ui\Form\Control\Dropdown
      *
      * @return array|false|mixed|string|null
      */
-    public function getInputValue()
+    public function getInputValue(): ?string
     {
         return $this->field ? $this->field->get() : $this->content;
     }
