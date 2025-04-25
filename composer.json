@@ -11,7 +11,7 @@
 	],
 	"homepage" : "https://github.com/mkrecek234/multiupload",
 	"license" : "MIT",
-	"minimum-stability" : "dev",
+	"minimum-stability" : "stable",
 	"prefer-stable" : true,
 	"authors" : [{
 			"name" : "Michael Krecek",
