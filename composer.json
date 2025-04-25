@@ -27,7 +27,7 @@
 	"require" : {
 		"atk4/ui" : "*",
 		"php" : ">=7.0.0",
-		"atk4/filestore" : "~3",
+		"atk4/filestore" : ">=5.0.0",
 		"atk4/data" : ">=5.0.0"
 	},
 	"require-dev" : {
